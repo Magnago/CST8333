@@ -5670,11 +5670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Assignment 3\\UnitTestProject\\UnitTestProject.csproj",
+      "projectUniqueName": "D:\\Projects\\Felipe Magnago - Assignment 4\\UnitTestProject\\UnitTestProject.csproj",
       "projectName": "UnitTestProject",
-      "projectPath": "D:\\Projects\\Assignment 3\\UnitTestProject\\UnitTestProject.csproj",
+      "projectPath": "D:\\Projects\\Felipe Magnago - Assignment 4\\UnitTestProject\\UnitTestProject.csproj",
       "packagesPath": "C:\\Users\\Magnago\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Assignment 3\\UnitTestProject\\obj\\",
+      "outputPath": "D:\\Projects\\Felipe Magnago - Assignment 4\\UnitTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5693,8 +5693,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Projects\\Assignment 3\\Assignment 3\\Assignment 3.csproj": {
-              "projectPath": "D:\\Projects\\Assignment 3\\Assignment 3\\Assignment 3.csproj"
+            "D:\\Projects\\Felipe Magnago - Assignment 4\\Assignment 3\\Assignment 3.csproj": {
+              "projectPath": "D:\\Projects\\Felipe Magnago - Assignment 4\\Assignment 3\\Assignment 3.csproj"
             }
           }
         }

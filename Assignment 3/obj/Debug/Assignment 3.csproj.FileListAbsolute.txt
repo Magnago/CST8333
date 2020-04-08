@@ -9,3 +9,14 @@ D:\Projects\Assignment 3\Assignment 3\obj\Debug\Assignment_3.View.MainForm.resou
 D:\Projects\Assignment 3\Assignment 3\obj\Debug\Assignment 3.csproj.GenerateResource.cache
 D:\Projects\Assignment 3\Assignment 3\obj\Debug\Assignment 3.exe
 D:\Projects\Assignment 3\Assignment 3\obj\Debug\Assignment 3.pdb
+D:\Projects\Felipe Magnago - Assignment 4\Assignment 3\bin\Debug\Assignment 3.exe.config
+D:\Projects\Felipe Magnago - Assignment 4\Assignment 3\bin\Debug\Assignment 3.exe
+D:\Projects\Felipe Magnago - Assignment 4\Assignment 3\bin\Debug\Assignment 3.pdb
+D:\Projects\Felipe Magnago - Assignment 4\Assignment 3\obj\Debug\Assignment 3.csprojAssemblyReference.cache
+D:\Projects\Felipe Magnago - Assignment 4\Assignment 3\obj\Debug\Assignment_3.Properties.Resources.resources
+D:\Projects\Felipe Magnago - Assignment 4\Assignment 3\obj\Debug\Assignment_3.View.AddForm.resources
+D:\Projects\Felipe Magnago - Assignment 4\Assignment 3\obj\Debug\Assignment_3.View.EditForm.resources
+D:\Projects\Felipe Magnago - Assignment 4\Assignment 3\obj\Debug\Assignment_3.View.MainForm.resources
+D:\Projects\Felipe Magnago - Assignment 4\Assignment 3\obj\Debug\Assignment 3.csproj.GenerateResource.cache
+D:\Projects\Felipe Magnago - Assignment 4\Assignment 3\obj\Debug\Assignment 3.exe
+D:\Projects\Felipe Magnago - Assignment 4\Assignment 3\obj\Debug\Assignment 3.pdb

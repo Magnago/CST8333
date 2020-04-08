@@ -54,8 +54,8 @@ namespace Assignment_3.View
         /// <param name="e"></param>
         public void button1_Click(object sender, EventArgs e)
         {
-            int ID = Int32.Parse(getListViewItem().SubItems[0].Text) + 1;
-            controller.AddData(new Model.DatasetModel(ID.ToString(), textBox1.Text, textBox2.Text, textBox3.Text, textBox4.Text, textBox5.Text,
+            //int ID = Int32.Parse(getListViewItem().SubItems[0].Text) + 1;
+            controller.AddData(new Model.DatasetModel("", textBox1.Text, textBox2.Text, textBox3.Text, textBox4.Text, textBox5.Text,
             textBox6.Text, textBox7.Text, textBox8.Text, textBox9.Text, textBox10.Text, textBox11.Text, textBox12.Text, textBox13.Text, textBox14.Text,
             textBox15.Text, textBox16.Text, textBox17.Text));
 
